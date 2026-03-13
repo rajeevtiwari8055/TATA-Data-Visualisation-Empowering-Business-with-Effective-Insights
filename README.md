@@ -47,7 +47,7 @@ This simulation emphasizes **turning raw data into meaningful insights** to info
 
 ## <span id="program-context">🏢 Program Context</span>
 
-- **Organization:** Tata  
+- **Organization:** TATA
 - **Platform:** Forage  
 - **Domain:** Data Analytics & Visualization  
 - **Duration:** 1–2 Hours (Self-paced)  
