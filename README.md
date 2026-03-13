@@ -247,17 +247,16 @@ This simulation strengthened my ability to:
 
 ├── Data Visualisation - Empowering Business with Effective Insights
 │ ├── images
-│ │ ├── Dashboard.png
-│ │ └── ProjectOverview.png
-│ ├── dataset.xlsx
-│ ├── Task1_Questions.pdf
-│ ├── Task2_VisualSelection.pdf
-│ ├── Task3_Dashboard.pbix
-│ ├── Task4_PresentationVideo.mp4
+│ ├── Communicating Insights and Analysis.pdf
+│ ├── Communicating Insights and Analysis.pptx
+│ ├── Data Visualisation - Empowering Business with Effective Insights.pdf
+│ ├── Data Visualisation Empowering Business with Effective Insights.pdf
+│ ├── Data Visualisation Empowering Business with Effective Insights.pptx
+│ ├── Online Retail.xlsx
+│ ├── Potential Questions.txt
 │ └── README.md
-
----
-
+│ ├── Task 3 Final Dashboard.pbix
+│ └── Visuals Hints.pdf
 
 ---
 
