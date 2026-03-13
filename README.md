@@ -314,8 +314,8 @@ It emphasized the importance of:
 ---
 
 ## 🖼️ Job Simulation Visuals
-
-![Project Overview](images/final%20task.png)  
+ 
 ![Dashboard Overview](images/Final%20Dashboard.jpg)
+![Project Overview](images/final%20task.png)
 
 ---
