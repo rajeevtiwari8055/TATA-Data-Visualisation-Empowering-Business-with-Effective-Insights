@@ -4,7 +4,7 @@
 
 ## 🏢 Organization
 
-- **Offered by:** Tata  
+- **Offered by:** TATA 
 - **Platform:** Forage  
 - **Mode:** Self-paced virtual job simulation  
 
