@@ -24,7 +24,7 @@
 - <a href="#task-2">📊 Task 2: Choosing the Right Visuals</a>
 - <a href="#task-3">📈 Task 3: Creating Effective Visuals</a>
 - <a href="#task-4">📝 Task 4: Communicating Insights & Analysis</a>
-- <a href="#dashboard-development">📝 📊 Dashboard Development</a>
+- <a href="#dashboard-development">📊 Dashboard Development</a>
 - <a href="#tools-technologies">🛠️ Tools & Technologies</a>
 - <a href="#key-insights">📌 Key Insights</a>
 - <a href="#learning-outcomes">🚀 Learning Outcomes</a>
