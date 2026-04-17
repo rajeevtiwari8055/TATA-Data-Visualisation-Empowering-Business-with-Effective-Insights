@@ -245,18 +245,17 @@ This simulation strengthened my ability to:
 
 ## <span id="repository-structure">📁 Repository Structure</span>
 
-├── Data Visualisation - Empowering Business with Effective Insights
-│ ├── images
-│ ├── Communicating Insights and Analysis.pdf
-│ ├── Communicating Insights and Analysis.pptx
-│ ├── Data Visualisation - Empowering Business with Effective Insights.pdf
-│ ├── Data Visualisation Empowering Business with Effective Insights.pdf
-│ ├── Data Visualisation Empowering Business with Effective Insights.pptx
-│ ├── Online Retail.xlsx
-│ ├── Potential Questions.txt
-│ └── README.md
-│ ├── Task 3 Final Dashboard.pbix
-│ └── Visuals Hints.pdf
+`images`
+`Communicating Insights and Analysis.pdf`
+`Communicating Insights and Analysis.pptx`
+`Data Visualisation - Empowering Business with Effective Insights.pdf`
+`Data Visualisation Empowering Business with Effective Insights.pdf`
+`Data Visualisation Empowering Business with Effective Insights.pptx`
+`Online Retail.xlsx`
+`Potential Questions.txt`
+`README.md`
+`Task 3 Final Dashboard.pbix`
+`Visuals Hints.pdf`
 
 ---
 
